@@ -87,15 +87,6 @@ const App = () => {
                 <img src={mg} alt="star" />
               </span>
               <h1>DIGITAL MARKETING COMPANY</h1>
-
-              {/* <span className="h-20 w-20  invert   flex items-center justify-center">
-                <img src={mg} alt="star" />
-              </span>
-              <h1>DIGITAL MARKETING COMPANY &nbsp; </h1>
-              <span className="h-20 w-20  invert    flex items-center justify-center">
-                <img src={mg} alt="star" />
-              </span>
-              <h1>DIGITAL MARKETING COMPANY &nbsp; </h1> */}
             </span>
           </marquee>
         </div>
